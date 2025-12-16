@@ -1,0 +1,41 @@
+faculty_id,department,designation,experience_years,baseline_work_hours
+1,Computer Science,Associate Professor,12,45.59530691612654
+2,IT,Assistant Professor,14,45.64417536305466
+3,IT,Associate Professor,20,44.85130306006066
+4,Data Science,Assistant Professor,4,45.50177807710503
+5,AI,Assistant Professor,16,42.201875246982056
+6,Data Science,Associate Professor,14,40.02619679230209
+7,Computer Science,Assistant Professor,22,41.06196924509721
+8,AI,Assistant Professor,10,43.294789927282984
+9,IT,Professor,24,41.46660558136821
+10,IT,Associate Professor,9,50.39487281324056
+11,IT,Associate Professor,15,42.178521580219495
+12,IT,Assistant Professor,17,46.57450043674318
+13,Computer Science,Assistant Professor,16,47.33744332648236
+14,IT,Associate Professor,7,49.949754210258725
+15,IT,Assistant Professor,10,47.726647369030715
+16,IT,Associate Professor,20,44.30615084306259
+17,Data Science,Associate Professor,7,51.82388391311113
+18,Computer Science,Associate Professor,11,40.023953663306045
+19,AI,Assistant Professor,12,41.23969375225611
+20,Computer Science,Assistant Professor,19,45.87968445958365
+21,Computer Science,Professor,5,45.34351141667942
+22,Computer Science,Professor,3,48.268504558245645
+23,IT,Associate Professor,9,45.64220775324911
+24,Data Science,Professor,17,46.47613883612595
+25,Data Science,Associate Professor,21,48.98466541759458
+26,Data Science,Assistant Professor,10,45.56309439832667
+27,Data Science,Assistant Professor,13,47.71837594812729
+28,AI,Assistant Professor,4,41.97743638769263
+29,Data Science,Associate Professor,22,42.24132519309223
+30,IT,Associate Professor,4,48.524139014555146
+31,IT,Professor,13,45.484089901509
+32,Data Science,Professor,22,45.6771768990757
+33,AI,Professor,19,42.22596869863159
+34,Data Science,Professor,12,43.36523914260417
+35,IT,Professor,7,46.14681885154392
+36,IT,Assistant Professor,5,43.795601914121924
+37,IT,Assistant Professor,11,41.55221525431478
+38,Computer Science,Associate Professor,22,41.598710540727524
+39,IT,Associate Professor,24,42.45067392580287
+40,Data Science,Assistant Professor,4,43.64422553176123
